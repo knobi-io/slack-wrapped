@@ -19,5 +19,5 @@ Copy "final_stats.json" to the app directory.
 
 ## Got other cool things you'd like to do with your slack workspace?
 Knobi builds custom tools for community platforms like Slack, Discord and more. 
-Check out at Knobi.io
+Check us out at Knobi.io
 🎈
