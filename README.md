@@ -16,3 +16,7 @@ Copy "final_stats.json" to the app directory.
 - It will respond with an ephemeral message (only visible the user) displaying their stats.
 
 (Note: Several of the messages in app/wrapped.py reference 2024/2025 - modify them as needed.)
+
+## Got other cool things you'd like to do with your slack workspace?
+Knobi builds custom tools for community platforms like Slack, discord and more. 
+Check out at knobi.io
